@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Dockertools - Curated List of Docker Tools
 
-You can use the [editor on GitHub](https://github.com/collabnix/dockertools/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dockertools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. The community is planning to conduct webinar for the most voted tools based on the popularity. Do visit http://webinar.collabnix.com for the upcoming webinars around these tools.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Upcoming Dockertools Webinar
 
-### Markdown
+### Year: 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Maintainer
 
-1. Numbered
-2. List
+- [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 
-**Bold** and _Italic_ and `Code` text
+Last Updated: Feb 15, 2020
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/collabnix/dockertools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
