@@ -7,12 +7,12 @@ Dockertools was built with a purpose. It is being used by Collabnix Slack commun
 ## Image Slim
 
 DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)<br>
-minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon)<br>
+Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon)<br>
 
 ## Image Build tools/kit
 
 BuildKit - [toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit)<br>
-dive - [A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)<br>
+Dive - [A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)<br>
 
 
 ## Image Security
@@ -26,8 +26,8 @@ Portainer - [Making Docker management easy. https://www.portainer.io](https://gi
 
 ## Networking
 
-The libnetwork plugin - [Docker libnetwork plugin for Calico http://www.projectcalico.org](https://github.com/projectcalico/libnetwork-plugin)<br>
-libnetwork - [networking for containers](https://github.com/moby/libnetwork)<br>
+Libnetwork - [Docker libnetwork plugin for Calico http://www.projectcalico.org](https://github.com/projectcalico/libnetwork-plugin)<br>
+Libnetwork - [networking for containers](https://github.com/moby/libnetwork)<br>
 
 ## Swarm
 
