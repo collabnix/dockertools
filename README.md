@@ -1,12 +1,12 @@
 # DockerTools - Curated List of Docker Tools
 
-Dockertools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. The community is planning to conduct webinar for the most voted tools based on the popularity. Do visit http://webinar.collabnix.com for the upcoming webinars around these tools.
+Dockertools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. 
 
 
 
 ## Image Slim
 
-DockerSlim - [Don't change anything in your Docker container image and minify it by up to 30x making it secure too!](https://github.com/docker-slim/docker-slim)<br>
+DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)<br>
 minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon)<br>
 
 ## Image Build tools/kit
