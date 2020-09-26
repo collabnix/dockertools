@@ -11,8 +11,8 @@ Minicon - [Minimization of the filesystem for containers](https://github.com/gry
 
 ## Image Build tools/kit
 
-BuildKit - [toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit)<br>
-Dive - [A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)<br>
+BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit)<br>
+Dive - [Tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)<br>
 
 
 ## Image Security
