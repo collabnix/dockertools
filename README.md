@@ -38,5 +38,5 @@ Orbiter - [Autoscaler for Docker Swarm](https://github.com/gianarb/orbiter)
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet S Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: March 21, 2020
+Last Updated: September 2020
 
