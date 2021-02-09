@@ -8,6 +8,7 @@ Dockertools was built with a purpose. It is being used by Collabnix Slack commun
 
 DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)<br>
 Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon)<br>
+Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower)<br>
 
 ## Image Build tools/kit
 
@@ -38,5 +39,5 @@ Orbiter - [Autoscaler for Docker Swarm](https://github.com/gianarb/orbiter)
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet S Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: September 2020
+Last Updated: Feb 2021
 
