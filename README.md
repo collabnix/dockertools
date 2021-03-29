@@ -23,7 +23,7 @@ Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for 
 DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
 
 
-## Observability
+## Runtime Security
 
 Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)<br>
 
