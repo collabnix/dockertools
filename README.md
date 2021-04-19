@@ -1,6 +1,6 @@
 # DockerTools - Curated List of Docker Tools
 
-Dockertools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. 
+DockerTools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. 
 
 
 
