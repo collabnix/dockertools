@@ -10,7 +10,7 @@ DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-sli
 Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon)<br>
 Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower)<br>
 
-## Image Build tools/kit
+## Image Build Toolkit
 
 BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit)<br>
 Dive - [Tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)<br>
