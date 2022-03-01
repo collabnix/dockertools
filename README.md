@@ -24,6 +24,7 @@ Watchtower - [A process for automating Docker container base image updates](http
 
 BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit)<br>
 Dive - [Tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)<br>
+Docker-Squash - [Squashing helps with organizing images in logical layers.](https://github.com/goldmann/docker-squash)<br>
 
 
 ## Image Security
@@ -32,6 +33,7 @@ TerraScan -[Detect compliance and security violations across Infrastructure as C
 Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)<br>
 Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)<br>
 DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
+DockerScan - [A Docker analysis & hacking tools](https://github.com/cr0hn/dockerscan)<br>
 
 
 ## DockerHub
@@ -52,6 +54,10 @@ Portainer - [Making Docker management easy. https://www.portainer.io](https://gi
 ## Machine Learning
 
 Paddle Serving - [A flexible, high-performance carrier for machine learning models](https://github.com/PaddlePaddle/Serving)<br>
+
+## Development
+
+Conan Docker - [accelerating the development and Continuous Integration of C and C++ projects.](https://github.com/conan-io/conan-docker-tools)<br>
 
 ## Networking
 
