@@ -1,11 +1,13 @@
 # DockerTools - Curated List of Docker Tools
 
-DockerTools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. 
 
 ![stars](https://img.shields.io/github/stars/collabnix/dockertools)
 ![forks](https://img.shields.io/github/forks/collabnix/dockertools)
 ![issues](https://img.shields.io/github/issues/collabnix/dockertools)
 ![Twitter](https://img.shields.io/twitter/follow/dockertools?style=social)
+
+DockerTools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. 
+
 
 Follow [the Collabnix Twitter account](https://twitter.com/collabnix) for updates on new list additions.
 
