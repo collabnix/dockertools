@@ -2,7 +2,14 @@
 
 DockerTools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. 
 
+![stars](https://img.shields.io/github/stars/collabnix/dockertools)
+![forks](https://img.shields.io/github/forks/collabnix/dockertools)
+![issues](https://img.shields.io/github/issues/collabnix/dockertools)
+![Twitter](https://img.shields.io/twitter/follow/dockertools?style=social)
 
+Follow [the Collabnix Twitter account](https://twitter.com/collabnix) for updates on new list additions.
+
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 6400+ DevOps enthusiasts.<br>
 
 ## Image Slim
 
