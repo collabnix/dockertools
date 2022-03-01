@@ -33,6 +33,13 @@ Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for 
 DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
 
 
+## DockerHub
+
+
+DockerHub Scraper - [Scraping DockerHub](https://github.com/itamarhaber/dockerhub-scraper)<br>
+
+
+
 ## Runtime Security
 
 Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)<br>
@@ -41,10 +48,15 @@ Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aq
 
 Portainer - [Making Docker management easy. https://www.portainer.io](https://github.com/portainer/portainer)<br>
 
+## Machine Learning
+
+Paddle Serving - [A flexible, high-performance carrier for machine learning models](https://github.com/PaddlePaddle/Serving)<br>
+
 ## Networking
 
 Libnetwork - [Docker libnetwork plugin for Calico http://www.projectcalico.org](https://github.com/projectcalico/libnetwork-plugin)<br>
 Libnetwork - [networking for containers](https://github.com/moby/libnetwork)<br>
+Caddy Gen - [Automated Caddy reverse proxy for docker containers](https://github.com/wemake-services/caddy-gen)<br>
 
 ## Swarm
 
