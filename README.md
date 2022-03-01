@@ -24,6 +24,7 @@ Watchtower - [A process for automating Docker container base image updates](http
 
 BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit)<br>
 Dive - [Tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)<br>
+Docker-Squash - [Squashing helps with organizing images in logical layers.](https://github.com/goldmann/docker-squash)<br>
 
 
 ## Image Security
@@ -32,14 +33,16 @@ TerraScan -[Detect compliance and security violations across Infrastructure as C
 Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)<br>
 Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)<br>
 DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
+DockerScan - [A Docker analysis & hacking tools](https://github.com/cr0hn/dockerscan)<br>
 
 
 ## DockerHub
 
-
 DockerHub Scraper - [Scraping DockerHub](https://github.com/itamarhaber/dockerhub-scraper)<br>
 
+## Docker Volume
 
+Flocker - [Data Volume Manager for your Dockerized applications.](https://github.com/ClusterHQ/flocker)<br>
 
 ## Runtime Security
 
@@ -48,10 +51,15 @@ Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aq
 ## Container Management
 
 Portainer - [Making Docker management easy. https://www.portainer.io](https://github.com/portainer/portainer)<br>
+Drone - [continuous delivery system built on container technology](https://github.com/harness/drone)<br>
 
 ## Machine Learning
 
 Paddle Serving - [A flexible, high-performance carrier for machine learning models](https://github.com/PaddlePaddle/Serving)<br>
+
+## Development
+
+Conan Docker - [accelerating the development and Continuous Integration of C and C++ projects.](https://github.com/conan-io/conan-docker-tools)<br>
 
 ## Networking
 
@@ -67,6 +75,10 @@ Orbiter - [Autoscaler for Docker Swarm](https://github.com/gianarb/orbiter)
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet S Raina](https://www.linkedin.com/in/ajeetsraina)
+
+## Contributor
+- [Mansi Mishra](https://github.com/0904-mansi)
+
 
 Last Updated: 1 March 2022
 
