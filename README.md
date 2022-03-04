@@ -51,6 +51,7 @@ Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aq
 
 ## Container Orchestration
 
+Miniboss - [Manages container locally](https://github.com/afroisalreadyinu/miniboss)<br>
 Portainer - [Making Docker management easy. https://www.portainer.io](https://github.com/portainer/portainer)<br>
 Drone - [continuous delivery system built on container technology](https://github.com/harness/drone)<br>
 Kubernetes - [most popular container orchestration engine](https://kubernetes.io)<br>
