@@ -66,6 +66,9 @@ Nebula - [designed to manage massive clusters at scale.](http://nebula.readthedo
 
 Paddle Serving - [A flexible, high-performance carrier for machine learning models](https://github.com/PaddlePaddle/Serving)<br>
 
+## Android app
+Android-Docker - [A Docker image for building and testing Android apps.](https://github.com/randr0id/android-docker)<br>
+
 ## Development
 
 Docksal - [tool for defining and managing web development environments.](https://github.com/docksal/docksal)<br>
