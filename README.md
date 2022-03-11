@@ -56,7 +56,8 @@ Miniboss - [Manages container locally](https://github.com/afroisalreadyinu/minib
 Portainer - [Making Docker management easy. https://www.portainer.io](https://github.com/portainer/portainer)<br>
 Drone - [continuous delivery system built on container technology](https://github.com/harness/drone)<br>
 Kubernetes - [most popular container orchestration engine](https://kubernetes.io)<br>
-Amazon ECS - [highly scalable management service which allows developers to run containerized applications on EC2 instances.](https://aws.amazon.com/ecs/)
+Amazon ECS - [highly scalable management service which allows developers to run containerized applications on EC2 instances.](https://aws.amazon.com/ecs/)<br>
+Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)<br>
 
 ## Cluster Management
 
