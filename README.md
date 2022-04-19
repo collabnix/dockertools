@@ -47,6 +47,10 @@ DockerHub Scraper - [Scraping DockerHub](https://github.com/itamarhaber/dockerhu
 Flocker - [Data Volume Manager for your Dockerized applications.](https://github.com/ClusterHQ/flocker)<br>
 offen/docker-volume-backup - [Backup Docker volumes locally or to any S3 or WebDAV compatible storage](https://github.com/offen/docker-volume-backup)<br>
 
+## Cloud-Job
+
+ Launcha - [Launcha is a docker-based cloud job launcher.](https://github.com/vwxyzjn/launcha)<br>
+ 
 ## Runtime Security
 
 Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)<br>
