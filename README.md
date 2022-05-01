@@ -19,6 +19,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)<br>
 Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon)<br>
 Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower)<br>
+Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft)<br>
+
 
 ## Image Build Toolkit
 
@@ -27,6 +29,16 @@ Dive - [Tool for exploring each layer in a docker image](https://github.com/wago
 Docker-Squash - [Squashing helps with organizing images in logical layers.](https://github.com/goldmann/docker-squash)<br>
 Docker-Diun - [ Docker image update notifier](https://github.com/crazy-max/diun)
 Trivy - [Trivy is a container image scanner which uncovers known vulnerabilities.](https://www.cloudsavvyit.com/12027/how-to-use-trivy-to-find-vulnerabilities-in-docker-containers)br<>
+vbaksa/promoter - [Docker Image promotion tool](https://github.com/vbaksa/promoter)<br>
+Argo Watcher - [A small tool that will wait for the specific docker image to be rolled out](https://github.com/shini4i/argo-watcher)<br>
+Terrier - [Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes](https://github.com/heroku/terrier)<br>
+PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa)<br>
+Docker Registry Pruner - [Tool to apply retention logic to docker images in a Docker Registry](https://github.com/tumblr/docker-registry-pruner)<br>
+
+
+
+
+
 
 
 ## Image Security
@@ -38,6 +50,9 @@ DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
 DockerScan - [A Docker analysis & hacking tools](https://github.com/cr0hn/dockerscan)<br>
 Container-diff - [container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria.](https://github.com/GoogleContainerTools/container-diff)<br>
 
+## Docker CLI
+
+Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/)<br>
 
 ## DockerHub
 
@@ -65,6 +80,9 @@ Kubernetes - [most popular container orchestration engine](https://kubernetes.io
 Amazon ECS - [highly scalable management service which allows developers to run containerized applications on EC2 instances.](https://aws.amazon.com/ecs/)<br>
 Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)<br>
 Traefik - [Traefik is an HTTP reverse proxy that’s easy to integrate with container workloads.](https://github.com/traefik/traefik)<br>
+Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes environments.](https://docs.docker.com/engine/context/working-with-contexts/)<br>
+
+
 
 ## Cluster Management
 
