@@ -36,6 +36,7 @@ Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/c
 Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)<br>
 DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
 DockerScan - [A Docker analysis & hacking tools](https://github.com/cr0hn/dockerscan)<br>
+Container-diff - [container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria.](https://github.com/GoogleContainerTools/container-diff)<br>
 
 
 ## DockerHub
