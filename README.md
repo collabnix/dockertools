@@ -1,4 +1,4 @@
-# DockerTools - Curated List of Docker Developer Tools
+# Docker DevTools - Curated List of Docker Developer Tools
 
 ![MyImage](dockertool.png)
 
