@@ -7,7 +7,7 @@
 ![issues](https://img.shields.io/github/issues/collabnix/dockertools)
 ![Twitter](https://img.shields.io/twitter/follow/dockertools?style=social)
 
-Docker Developer Tools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular developer tools and technique and coming up with the best practices around these tools. 
+"Docker Developer Tools" repository was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular developer tools and technique and coming up with the best practices around these tools. 
 
 
 Follow [the Collabnix Twitter account](https://twitter.com/collabnix) for updates on new list additions.
