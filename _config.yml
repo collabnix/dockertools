@@ -5,7 +5,7 @@ show_downloads: true
 twitter_username: collabnix
 github_username: collabnix
 google_analytics:
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
 jekyll_admin:
   hidden_links:
     - posts
