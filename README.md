@@ -7,10 +7,10 @@
 ![issues](https://img.shields.io/github/issues/collabnix/dockertools)
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
-"Docker Developer Tools" repository was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular developer tools and technique and coming up with the best practices around these tools. 
+Developers love Docker. Docker is a suite of software development tools for creating, sharing and running containers. Developers use Docker to accelerate how they build, share, and run modern applications. This repository was built with a purpose. It is being used by Collabnix community internally to target the most popular developer tools and technique and coming up with the best practices around these tools. 
 
 
-Follow [the Collabnix Twitter account](https://twitter.com/collabnix) for updates on new list additions.
+Follow [the Collabnix Twitter account](https://twitter.com/collabnix) to keep track of the latest developer tools.
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 6400+ DevOps enthusiasts.<br>
 
