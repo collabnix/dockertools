@@ -1,6 +1,6 @@
 
 
-![MyImage](dockertool.png)
+
 
 ![stars](https://img.shields.io/github/stars/collabnix/dockertools)
 ![forks](https://img.shields.io/github/forks/collabnix/dockertools)
@@ -13,6 +13,29 @@
 Follow [the Collabnix Twitter account](https://twitter.com/collabnix) for updates on new list additions.
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 6400+ DevOps enthusiasts.<br>
+
+
+# Types of Docker Developer Tools
+
+- Docker Integrated Developer Tools
+- Open Source Developer Tools
+
+## Docker Integrated Developer Tools
+
+<img width="1072" alt="image" src="https://user-images.githubusercontent.com/34368930/169660363-17e48331-660b-4f87-acd6-eaea195f25fe.png">
+
+
+
+docker build - [Easily create and share portable Docker container images using open standards](https://docs.docker.com/engine/reference/commandline/build/)<br>
+docker buildx - [Extended build capabilities with Buildkit](https://docs.docker.com/engine/reference/commandline/buildx/)<br>
+docker compose - [Build and Manage multiple services in Docker containers](https://docs.docker.com/engine/reference/commandline/compose/)<br>
+docker scan - [Quickly detect and learn how to remediate CVEs in your Docker image](https://docs.docker.com/engine/scan/)<br>
+docker context - [Manages multiple Swarm clusters, Kubernetes clusters and Docker nodes](https://docs.docker.com/engine/context/working-with-contexts/)<br>
+docker sbom - [Generate the Software Bill of Materials (SBOM) of a container image](https://docs.docker.com/engine/sbom/)<br>
+docker extensions - [Use 3rd party tools within Docker Desktop to extend its functionality](https://docs.docker.com/desktop/extensions/)<br>
+docker trust - [Manage trust on Docker Images](https://docs.docker.com/engine/reference/commandline/trust/)<br>
+
+
 
 ## Image Slim
 
