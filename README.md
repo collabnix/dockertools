@@ -5,7 +5,7 @@
 ![stars](https://img.shields.io/github/stars/collabnix/dockertools)
 ![forks](https://img.shields.io/github/forks/collabnix/dockertools)
 ![issues](https://img.shields.io/github/issues/collabnix/dockertools)
-![Twitter](https://img.shields.io/twitter/follow/dockertools?style=social)
+![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 "Docker Developer Tools" repository was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular developer tools and technique and coming up with the best practices around these tools. 
 
