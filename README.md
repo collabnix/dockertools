@@ -18,7 +18,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)<br>
 Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon)<br>
-Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower)<br>
+Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower) ![Docker Pulls](https://img.shields.io/docker/pulls/containrrr/watchtower)  <br>
 Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft)<br>
 
 
