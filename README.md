@@ -5,6 +5,7 @@
 ![stars](https://img.shields.io/github/stars/collabnix/dockertools)
 ![forks](https://img.shields.io/github/forks/collabnix/dockertools)
 ![issues](https://img.shields.io/github/issues/collabnix/dockertools)
+![GitHub contributors](https://img.shields.io/github/contributors/collabnix/dockertools)
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 Developers love Docker. Docker is a suite of software development tools for creating, sharing and running containers. Developers use Docker to accelerate how they build, share, and run modern applications. This repository was built with a purpose. It is being used by Collabnix community internally to target the most popular developer tools and technique and coming up with the best practices around these tools. 
