@@ -4,6 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 show_downloads: true
 twitter_username: collabnix
 github_username: collabnix
+youtube: c/Collabnix
 google_analytics:
 theme: jekyll-theme-cayman
 jekyll_admin:
