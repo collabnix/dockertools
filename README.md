@@ -61,7 +61,9 @@ PHPQA - [Docker image that provides static analysis tools for PHP](https://githu
 Docker Registry Pruner - [Tool to apply retention logic to docker images in a Docker Registry](https://github.com/tumblr/docker-registry-pruner)<br>
 
 
+## Dockerfile Tools
 
+Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)
 
 
 
