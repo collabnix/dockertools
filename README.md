@@ -68,14 +68,14 @@ Bing Daily Images - [A docker container that downloads bing daily images for you
 
 ## Dockerfile Tools
 
-Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)
+Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)<br>
 
 
 
 
 ## Image Security
 
-TerraScan -[Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. ](https://github.com/accurics/terrascan)<br>
+TerraScan -[Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure](https://github.com/accurics/terrascan)<br>
 Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)<br>
 Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)<br>
 DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
@@ -106,7 +106,7 @@ offen/docker-volume-backup - [Backup Docker volumes locally or to any S3 or WebD
 ## Runtime Security
 
 Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)<br>
-CetusGuard - [Tool that allows to protect the Docker daemon socket by filtering the calls to its API endpoints](https://github.com/hectorm/cetusguard)
+CetusGuard - [Tool that allows to protect the Docker daemon socket by filtering the calls to its API endpoints](https://github.com/hectorm/cetusguard)<br>
 
 ## Container Orchestration
 
