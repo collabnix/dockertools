@@ -92,6 +92,9 @@ Lazy Docker - [A simple terminal UI for both docker and docker-compose, written 
 
 DockerHub Scraper - [Scraping DockerHub](https://github.com/itamarhaber/dockerhub-scraper)<br>
 
+## Deployment Tool
+
+Fleetform - [A tool to apply docker container infrastructure as code in a very simple human readable way](https://github.com/majo418/fleetform)<br>
 
 
 ## Docker Volume
