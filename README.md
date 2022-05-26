@@ -121,8 +121,8 @@ Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes
 
 ## Browser 
 
-kde-in-docker - [Run KDE inside a browser](https://github.com/ms-jpq/kde-in-docker)
-Portus - [3D Docker containers viewer built with Electron, React and Three Fiber](https://github.com/trindadematheus/portus)
+kde-in-docker - [Run KDE inside a browser](https://github.com/ms-jpq/kde-in-docker)<br>
+Portus - [3D Docker containers viewer built with Electron, React and Three Fiber](https://github.com/trindadematheus/portus)<br>
 
 
 ## Cluster Management
