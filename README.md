@@ -59,6 +59,7 @@ Argo Watcher - [A small tool that will wait for the specific docker image to be 
 Terrier - [Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes](https://github.com/heroku/terrier)<br>
 PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa)<br>
 Docker Registry Pruner - [Tool to apply retention logic to docker images in a Docker Registry](https://github.com/tumblr/docker-registry-pruner)<br>
+tini - [A tiny but valid `init` for containers](https://github.com/krallin/tini)
 
 ## Image Utilties
 
