@@ -66,9 +66,11 @@ Bing Daily Images - [A docker container that downloads bing daily images for you
 
 
 
-## Dockerfile Tools
+## Dockerfile Tools & Metrics
 
 Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)<br>
+ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)<br>
+
 
 
 
