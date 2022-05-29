@@ -41,10 +41,10 @@ docker trust - [Manage trust on Docker Images](https://docs.docker.com/engine/re
 
 ## Image Slim
 
-DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)  ![Docker Pulls](https://img.shields.io/docker/pulls/dslim/docker-slim) <br>
-Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon)<br>
+DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)  ![Docker Pulls](https://img.shields.io/docker/pulls/dslim/docker-slim) ![stars](https://img.shields.io/github/stars/docker-slim/docker-slim)<br>
+Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon) ![Github Stars](https://img.shields.io/github/stars/grycap/minicon) <br>
 Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower) ![Docker Pulls](https://img.shields.io/docker/pulls/containrrr/watchtower) ![GitHub Stars](https://img.shields.io/github/stars/containrrr/watchtower) <br>
-Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ![Docker Pulls](https://img.shields.io/docker/pulls/anchore/syft) <br>
+Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ![Docker Pulls](https://img.shields.io/docker/pulls/anchore/syft) ![stars](https://img.shields.io/github/stars/anchore/syft) <br>
 
 
 
