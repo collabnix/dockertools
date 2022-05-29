@@ -1,9 +1,11 @@
 title: Docker Developer Tools
 description: >- # this means to ignore newlines until "baseurl:"
-  Dockertools - A Curated List of Docker Tools
+  Dockertools - A Curated List of Developers Tools
 show_downloads: true
 twitter_username: collabnix
 github_username: collabnix
+youtube: c/Collabnix
+post_search: true
 google_analytics:
 theme: jekyll-theme-cayman
 jekyll_admin:
