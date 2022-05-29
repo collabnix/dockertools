@@ -50,9 +50,9 @@ Syft - [CLI tool and library for generating a Software Bill of Materials from co
 
 ## Image Build Toolkit
 
-BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit)<br>
-Dive - [Tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) ![Docker Pulls](https://img.shields.io/docker/pulls/wagoodman/dive)<br>
-Docker-Squash - [Squashing helps with organizing images in logical layers.](https://github.com/goldmann/docker-squash)<br>
+BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit) ![stars](https://img.shields.io/github/stars/moby/buildkit) <br>
+Dive - [Tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) ![Docker Pulls](https://img.shields.io/docker/pulls/wagoodman/dive) ![stars](https://img.shields.io/github/stars/wagoodman/dive) <br>
+Docker-Squash - [Squashing helps with organizing images in logical layers.](https://github.com/goldmann/docker-squash) ![stars](https://img.shields.io/github/stars/goldmann/docker-squash)<br>
 Docker-Diun - [ Docker image update notifier](https://github.com/crazy-max/diun)<br>
 Trivy - [Trivy is a container image scanner which uncovers known vulnerabilities.](https://www.cloudsavvyit.com/12027/how-to-use-trivy-to-find-vulnerabilities-in-docker-containers)<br>
 vbaksa/promoter - [Docker Image promotion tool](https://github.com/vbaksa/promoter)<br>
