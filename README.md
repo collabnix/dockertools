@@ -44,7 +44,9 @@ docker trust - [Manage trust on Docker Images](https://docs.docker.com/engine/re
 DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)  ![Docker Pulls](https://img.shields.io/docker/pulls/dslim/docker-slim) <br>
 Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon)<br>
 Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower) ![Docker Pulls](https://img.shields.io/docker/pulls/containrrr/watchtower)  <br>
+
 Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ![Docker Pulls](https://img.shields.io/docker/pulls/anchore/syft) <br>
+
 
 
 ## Image Build Toolkit
