@@ -74,7 +74,9 @@ Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in
 ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)<br>
 
 
+## Debugger
 
+Gebug - [A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.](https://github.com/moshebe/gebug) ![stars](https://img.shields.io/github/stars/moshebe/gebug) <br>
 
 
 ## Image Security
