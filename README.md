@@ -58,7 +58,7 @@ Trivy - [Trivy is a container image scanner which uncovers known vulnerabilities
 vbaksa/promoter - [Docker Image promotion tool](https://github.com/vbaksa/promoter) ![stars](https://img.shields.io/github/stars/vbaksa/promoter)<br>
 Argo Watcher - [A small tool that will wait for the specific docker image to be rolled out](https://github.com/shini4i/argo-watcher) ![stars](https://img.shields.io/github/stars/shini4i/argo-watcher)<br>
 Terrier - [Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes](https://github.com/heroku/terrier)  ![stars](https://img.shields.io/github/stars/heroku/terrier)<br>
-PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa)  ![Docker Pulls](https://img.shields.io/docker/pulls/jakzal/phpqa)  ![stars](https://img.shields.io/github/stars/jakzal/phpqa)<br>
+PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa)  ![Docker Pulls](https://img.shields.io/docker/pulls/jakzal/phpqa)<br>
 Docker Registry Pruner - [Tool to apply retention logic to docker images in a Docker Registry](https://github.com/tumblr/docker-registry-pruner) ![Docker Pulls](https://img.shields.io/docker/pulls/tumblr/docker-registry-pruner)) ![stars](https://img.shields.io/github/stars/tumblr/docker-registry-pruner)<br>
 tini - [A tiny but valid init for containers](https://github.com/krallin/tini) ![stars](https://img.shields.io/github/stars/krallin/tini)<br>
 
