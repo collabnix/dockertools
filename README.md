@@ -50,17 +50,27 @@ Syft - [CLI tool and library for generating a Software Bill of Materials from co
 
 ## Image Build Toolkit
 
-BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit) ![stars](https://img.shields.io/github/stars/moby/buildkit) <br>
+BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit) ![stars](https://img.shields.io/github/stars/moby/buildkit) ![Docker Pulls](https://img.shields.io/docker/pulls/moby/buildkit) <br>
+
 Dive - [Tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) ![Docker Pulls](https://img.shields.io/docker/pulls/wagoodman/dive) ![stars](https://img.shields.io/github/stars/wagoodman/dive) <br>
-Docker-Squash - [Squashing helps with organizing images in logical layers.](https://github.com/goldmann/docker-squash) ![stars](https://img.shields.io/github/stars/goldmann/docker-squash)<br>
-Docker-Diun - [ Docker image update notifier](https://github.com/crazy-max/diun) ![stars](https://img.shields.io/github/stars/crazy-max/diun) <br>
-Trivy - [Trivy is a container image scanner which uncovers known vulnerabilities.](https://www.cloudsavvyit.com/12027/how-to-use-trivy-to-find-vulnerabilities-in-docker-containers) ![stars](https://img.shields.io/github/stars/goldmann/docker-squash)<br><br>
-vbaksa/promoter - [Docker Image promotion tool](https://github.com/vbaksa/promoter) ![stars](https://img.shields.io/github/stars/vbaksa/promoter)<br>
-Argo Watcher - [A small tool that will wait for the specific docker image to be rolled out](https://github.com/shini4i/argo-watcher)  ![stars](https://img.shields.io/github/stars/shini4i/argo-watcher)<br>
-Terrier - [Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes](https://github.com/heroku/terrier)![stars](https://img.shields.io/github/stars/heroku/terrier)<br>
-PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa)![stars](https://img.shields.io/github/stars/jakzal/phpqa)<br> 
-Docker Registry Pruner - [Tool to apply retention logic to docker images in a Docker Registry](https://github.com/tumblr/docker-registry-pruner) ![stars](https://img.shields.io/github/stars/tumblr/docker-registry-pruner)<br>
-tini - [A tiny but valid `init` for containers](https://github.com/krallin/tini) ![stars](https://img.shields.io/github/stars/krallin/tini)<br>
+
+Docker-Squash - [Squashing helps with organizing images in logical layers.](https://github.com/goldmann/docker-squash) ![stars](https://img.shields.io/github/stars/goldmann/docker-squash) ![Docker Pulls](https://img.shields.io/docker/pulls/goldmann/docker-squash)<br>
+
+Docker-Diun - [ Docker image update notifier](https://github.com/crazy-max/diun) ![stars](https://img.shields.io/github/stars/crazy-max/diun) ![Docker Pulls](https://img.shields.io/docker/pulls/crazy-max/diun) <br>
+
+Trivy - [Trivy is a container image scanner which uncovers known vulnerabilities.](https://www.cloudsavvyit.com/12027/how-to-use-trivy-to-find-vulnerabilities-in-docker-containers) ![stars](https://img.shields.io/github/stars/goldmann/docker-squash) ![Docker Pulls](https://img.shields.io/docker/pulls/wagoodman/dive) <br>
+
+vbaksa/promoter - [Docker Image promotion tool](https://github.com/vbaksa/promoter)![Docker Pulls](https://img.shields.io/docker/pulls/vbaksa/promoter)  ![stars](https://img.shields.io/github/stars/vbaksa/promoter)<br>
+
+Argo Watcher - [A small tool that will wait for the specific docker image to be rolled out](https://github.com/shini4i/argo-watcher) ![Docker Pulls](https://img.shields.io/docker/pulls/shini4i/argo-watcher) ![stars](https://img.shields.io/github/stars/shini4i/argo-watcher)<br>
+
+Terrier - [Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes](https://github.com/heroku/terrier) ![Docker Pulls](https://img.shields.io/docker/pulls/heroku/terrier)  ![stars](https://img.shields.io/github/stars/heroku/terrier)<br>
+
+PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa)  ![Docker Pulls](https://img.shields.io/docker/pulls/jakzal/phpqa)  ![stars](https://img.shields.io/github/stars/jakzal/phpqa)<br>
+
+Docker Registry Pruner - [Tool to apply retention logic to docker images in a Docker Registry](https://github.com/tumblr/docker-registry-pruner) ![Docker Pulls](https://img.shields.io/docker/pulls/tumblr/docker-registry-pruner)) ![stars](https://img.shields.io/github/stars/tumblr/docker-registry-pruner)<br>
+
+tini - [A tiny but valid init for containers](https://github.com/krallin/tini) ![Docker Pulls](https://img.shields.io/docker/pulls/krallin/tini) ![stars](https://img.shields.io/github/stars/krallin/tini)<br>
 
 ## Image Utilties
 
