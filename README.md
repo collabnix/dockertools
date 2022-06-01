@@ -72,6 +72,7 @@ Bing Daily Images - [A docker container that downloads bing daily images for you
 
 Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)<br>
 ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)<br>
+Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)<br>
 
 
 ## Debugger
@@ -117,6 +118,8 @@ Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aq
 CetusGuard - [Tool that allows to protect the Docker daemon socket by filtering the calls to its API endpoints](https://github.com/hectorm/cetusguard)<br>
 Tetragon - [eBPF-based Security Observability and Runtime Enforcement](https://github.com/cilium/tetragon) ![Docker Pulls](https://img.shields.io/docker/pulls/cilium/tetragon) ![stars](https://img.shields.io/github/stars/cilium/tetragon)<br>
 
+Falco - [Runtime security and threat detection project](https://falco.org/) <br>
+
 ## Container Orchestration
 
 Miniboss - [Manages container locally](https://github.com/afroisalreadyinu/miniboss)<br>
@@ -151,6 +154,7 @@ Konveyor Move2Kube - [Automatically create Dockerfiles, Kubernetes Yamls, Helm c
 Docksal - [tool for defining and managing web development environments.](https://github.com/docksal/docksal)<br>
 Chartbrew - [Chartbrew is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts.](https://github.com/chartbrew/chartbrew)<br>
 Conan Docker - [accelerating the development and Continuous Integration of C and C++ projects.](https://github.com/conan-io/conan-docker-tools)<br>
+PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa) ![stars](https://img.shields.io/github/stars/jakzal/phpqa) ![Docker Pulls](https://img.shields.io/docker/pulls/jakzal/phpqa) <br>
 
 
 ## Workflow
