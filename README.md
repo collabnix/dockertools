@@ -93,14 +93,13 @@ Container-diff - [container-diff is a tool for analyzing and comparing container
 Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/)<br>
 Lazy Docker - [A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.](https://github.com/jesseduffield/lazydocker)<br>
 
-
 ## DockerHub
 
 DockerHub Scraper - [Scraping DockerHub](https://github.com/itamarhaber/dockerhub-scraper)<br>
 
 ## Deployment Tool
 
-Fleetform - [A tool to apply docker container infrastructure as code in a very simple human readable way](https://github.com/majo418/fleetform)<br>
+Fleetform - [A tool to apply docker container infrastructure as code in a very simple human readable way](https://github.com/majo418/fleetform) ![Docker Pulls](https://img.shields.io/docker/pulls/majo418/fleetform) ![stars](https://img.shields.io/github/stars/majo418/fleetform)<br>
 
 
 ## Docker Volume
@@ -116,6 +115,7 @@ offen/docker-volume-backup - [Backup Docker volumes locally or to any S3 or WebD
 
 Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)<br>
 CetusGuard - [Tool that allows to protect the Docker daemon socket by filtering the calls to its API endpoints](https://github.com/hectorm/cetusguard)<br>
+Tetragon - [eBPF-based Security Observability and Runtime Enforcement](https://github.com/cilium/tetragon) ![Docker Pulls](https://img.shields.io/docker/pulls/cilium/tetragon) ![stars](https://img.shields.io/github/stars/cilium/tetragon)<br>
 
 ## Container Orchestration
 
