@@ -64,7 +64,7 @@ tini - [A tiny but valid init for containers](https://github.com/krallin/tini) !
 
 ## Image Utilties
 
-Bing Daily Images - [A docker container that downloads bing daily images for you](https://github.com/ms-jpq/bing-daily-images)<br>
+Bing Daily Images - [A docker container that downloads bing daily images for you](https://github.com/ms-jpq/bing-daily-images) ![Docker Pulls](https://img.shields.io/docker/pulls/ms-jpq/bing-daily-images)  ![stars](https://img.shields.io/github/stars/ms-jpq/bing-daily-images)<br>
 
 
 
