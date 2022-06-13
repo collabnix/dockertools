@@ -70,7 +70,7 @@ Bing Daily Images - [A docker container that downloads bing daily images for you
 
 ## Dockerfile Tools & Metrics
 
-Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint) ![stars](https://img.shields.io/github/stars/[hadolint/hadolint)<br>
+Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint) ![stars](https://img.shields.io/github/stars/hadolint/hadolint)<br>
 ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)  ![stars](https://img.shields.io/github/stars/bcicen/ctop)<br>
 Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)  ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)<br>
 
