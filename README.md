@@ -64,15 +64,15 @@ tini - [A tiny but valid init for containers](https://github.com/krallin/tini) !
 
 ## Image Utilties
 
-Bing Daily Images - [A docker container that downloads bing daily images for you](https://github.com/ms-jpq/bing-daily-images)<br>
+Bing Daily Images - [A docker container that downloads bing daily images for you](https://github.com/ms-jpq/bing-daily-images) ![Docker Pulls](https://img.shields.io/docker/pulls/ms-jpq/bing-daily-images)  ![stars](https://img.shields.io/github/stars/ms-jpq/bing-daily-images)<br>
 
 
 
 ## Dockerfile Tools & Metrics
 
-Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)<br>
-ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)<br>
-Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)<br>
+Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)![Docker Pulls](https://img.shields.io/docker/pulls/hadolint/hadolint)  ![stars](https://img.shields.io/github/stars/hadolint/hadolinta)<br>
+ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)![Docker Pulls](https://img.shields.io/docker/pulls/bcicen/ctop)  ![stars](https://img.shields.io/github/stars/bcicen/ctop)<br>
+Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage) ![Docker Pulls](https://img.shields.io/docker/pulls/jakzal/phpqa)  ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)<br>
 
 
 ## Debugger
@@ -82,12 +82,12 @@ Gebug - [A tool that makes debugging of Dockerized Go applications super easy by
 
 ## Image Security
 
-TerraScan -[Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure](https://github.com/accurics/terrascan)<br>
-Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)<br>
-Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)<br>
+TerraScan -[Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure](https://github.com/accurics/terrascan)![Docker Pulls](https://img.shields.io/docker/pulls/accurics/terrascan)  ![stars](https://img.shields.io/github/stars/accurics/terrascan)<br>
+Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)![Docker Pulls](https://img.shields.io/docker/pulls/quay/clair)  ![stars](https://img.shields.io/github/stars/quay/clair)<br>
+Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)![Docker Pulls](https://img.shields.io/docker/pulls/aquasecurity/trivy)  ![stars](https://img.shields.io/github/stars/aquasecurity/trivy)<br>
 DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
-DockerScan - [A Docker analysis & hacking tools](https://github.com/cr0hn/dockerscan)<br>
-Container-diff - [container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria.](https://github.com/GoogleContainerTools/container-diff)<br>
+DockerScan - [A Docker analysis & hacking tools](https://github.com/cr0hn/dockerscan)![Docker Pulls](https://img.shields.io/docker/pulls/cr0hn/dockerscan)  ![stars](https://img.shields.io/github/stars/cr0hn/dockerscan)<br>
+Container-diff - [container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria.](https://github.com/GoogleContainerTools/container-diff)![Docker Pulls](https://img.shields.io/docker/pulls/GoogleContainerTools/container-diff)  ![stars](https://img.shields.io/github/stars/GoogleContainerTools/container-diff)<br>
 
 ## Docker CLI
 
@@ -101,6 +101,7 @@ DockerHub Scraper - [Scraping DockerHub](https://github.com/itamarhaber/dockerhu
 ## Deployment Tool
 
 Fleetform - [A tool to apply docker container infrastructure as code in a very simple human readable way](https://github.com/majo418/fleetform) ![Docker Pulls](https://img.shields.io/docker/pulls/majo418/fleetform) ![stars](https://img.shields.io/github/stars/majo418/fleetform)<br>
+Swarmsible -[Simple Ansible based Tooling for setting up and managing a production grade Docker Swarm on Ubuntu 18.04/20.04.](https://github.com/neuroforgede/swarmsible) ![stars](https://img.shields.io/github/stars/neuroforgede/swarmsible)<br>
 
 
 ## Docker Volume
