@@ -72,12 +72,12 @@ Bing Daily Images - [A docker container that downloads bing daily images for you
 
 Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint) ![stars](https://img.shields.io/github/stars/hadolint/hadolint)<br>
 ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)  ![stars](https://img.shields.io/github/stars/bcicen/ctop)<br>
-Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)  ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)<br>
+Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)<br>
 
 
 ## Debugger
 
-Gebug - [A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.](https://github.com/moshebe/gebug) ![stars](https://img.shields.io/github/stars/moshebe/gebug) <br>
+Gebug - [A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly](https://github.com/moshebe/gebug) ![stars](https://img.shields.io/github/stars/moshebe/gebug) <br>
 
 
 ## Image Security
