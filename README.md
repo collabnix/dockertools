@@ -45,7 +45,7 @@ DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-sli
 Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon) ![Github Stars](https://img.shields.io/github/stars/grycap/minicon) <br>
 Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower) ![Docker Pulls](https://img.shields.io/docker/pulls/containrrr/watchtower) ![GitHub Stars](https://img.shields.io/github/stars/containrrr/watchtower) <br>
 Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ![Docker Pulls](https://img.shields.io/docker/pulls/anchore/syft) ![stars](https://img.shields.io/github/stars/anchore/syft) <br>
-
+gitlab-ci-image-scanner (gcis) - [executes security scan over all Docker images used in all CI files ](https://github.com/jkosik/gitlab-ci-image-scanner) ![stars](https://img.shields.io/github/stars/jkosik/gitlab-ci-image-scanner) <br>
 
 
 ## Image Build Toolkit
@@ -123,14 +123,14 @@ Falco - [Runtime security and threat detection project](https://falco.org/) <br>
 
 ## Container Orchestration
 
-Miniboss - [Manages container locally](https://github.com/afroisalreadyinu/miniboss)<br>
-Portainer - [Making Docker management easy. https://www.portainer.io](https://github.com/portainer/portainer)<br>
-Drone - [continuous delivery system built on container technology](https://github.com/harness/drone)<br>
+Miniboss - [Manages container locally](https://github.com/afroisalreadyinu/miniboss) ![GitHub Stars](https://img.shields.io/github/stars/afroisalreadyinu/miniboss) <br>
+Portainer - [Making Docker management easy. https://www.portainer.io](https://github.com/portainer/portainer)![Docker Pulls](https://img.shields.io/docker/pulls/portainer/portainer) ![GitHub Stars](https://img.shields.io/github/stars/portainer/portainer) <br>
+Drone - [continuous delivery system built on container technology](https://github.com/harness/drone) ![GitHub Stars](https://img.shields.io/github/stars/harness/drone) <br>
 Kubernetes - [most popular container orchestration engine](https://kubernetes.io)<br>
-Amazon ECS - [highly scalable management service which allows developers to run containerized applications on EC2 instances.](https://aws.amazon.com/ecs/)<br>
-Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)<br>
-Traefik - [Traefik is an HTTP reverse proxy that’s easy to integrate with container workloads.](https://github.com/traefik/traefik)<br>
-Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes environments.](https://docs.docker.com/engine/context/working-with-contexts/)<br>
+Amazon ECS - [highly scalable management service which allows developers to run containerized applications on EC2 instances.](https://aws.amazon.com/ecs/) <br>
+Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)![Docker Pulls](https://img.shields.io/docker/pulls/testcontainers/ryuk) ![GitHub Stars](https://img.shields.io/github/stars/r/testcontainers/ryuk) <br>
+Traefik - [Traefik is an HTTP reverse proxy that’s easy to integrate with container workloads.](https://github.com/traefik/traefik)![Docker Pulls](https://img.shields.io/docker/pulls/traefik/traefik) ![GitHub Stars](https://img.shields.io/github/stars/traefik/traefik) <br>
+Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes environments.](https://docs.docker.com/engine/context/working-with-contexts/) <br>
 
 ## Browser 
 
