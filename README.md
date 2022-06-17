@@ -141,7 +141,7 @@ Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes
 ## Browser 
 
 kde-in-docker - [Run KDE inside a browser](https://github.com/ms-jpq/kde-in-docker)<br>
-Portus - [3D Docker containers viewer built with Electron, React and Three Fiber](https://github.com/trindadematheus/portus)<br>
+Portus - [3D Docker containers viewer built with Electron, React and Three Fiber](https://github.com/trindadematheus/portus)![GitHub Stars](https://img.shields.io/github/stars/trindadematheus/portus) <br>
 
 
 ## Cluster Management
@@ -150,16 +150,16 @@ Nebula - [designed to manage massive clusters at scale.](http://nebula.readthedo
 
 ## Machine Learning
 
-Paddle Serving - [A flexible, high-performance carrier for machine learning models](https://github.com/PaddlePaddle/Serving)<br>
+Paddle Serving - [A flexible, high-performance carrier for machine learning models](https://github.com/PaddlePaddle/Serving) ![GitHub Stars](https://img.shields.io/github/stars/PaddlePaddle/Serving) <br>
 
 ## Android app
-Android-Docker - [A Docker image for building and testing Android apps.](https://github.com/randr0id/android-docker)<br>
+Android-Docker - [A Docker image for building and testing Android apps.](https://github.com/randr0id/android-docker) ![GitHub Stars](https://img.shields.io/github/stars/randr0id/android-docker) <br>
 
 ## Development
 
 Konveyor Move2Kube - [Automatically create Dockerfiles, Kubernetes Yamls, Helm charts and other Infrastructure as Code Artifacts for your application.](https://move2kube.konveyor.io/)<br>
-Docksal - [tool for defining and managing web development environments.](https://github.com/docksal/docksal)<br>
-Chartbrew - [Chartbrew is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts.](https://github.com/chartbrew/chartbrew)<br>
+Docksal - [tool for defining and managing web development environments.](https://github.com/docksal/docksal)![GitHub Stars](https://img.shields.io/github/stars/docksal/docksal) <br>
+Chartbrew - [Chartbrew is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts.](https://github.com/chartbrew/chartbrew)![GitHub Stars](https://img.shields.io/github/stars/chartbrew/chartbrew) <br>
 Conan Docker - [accelerating the development and Continuous Integration of C and C++ projects.](https://github.com/conan-io/conan-docker-tools)<br>
 PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa) ![stars](https://img.shields.io/github/stars/jakzal/phpqa)  <br>
 
