@@ -50,7 +50,7 @@ gitlab-ci-image-scanner (gcis) - [executes security scan over all Docker images 
 
 Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower) ![GitHub Stars](https://img.shields.io/github/stars/containrrr/watchtower) <br>
 Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ![stars](https://img.shields.io/github/stars/anchore/syft) <br>
-
+dockcross - [Cross compiling toolchains in Docker images.](https://linktr.ee/dockcross)
 
 
 
@@ -97,7 +97,7 @@ Container-diff - [container-diff is a tool for analyzing and comparing container
 
 ## Docker CLI
 
-Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/)<br>
+Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) ![stars](https://img.shields.io/github/stars/buildx/working-with-buildx/)<br>
 Lazy Docker - [A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.](https://github.com/jesseduffield/lazydocker)<br>
 
 ## DockerHub
@@ -137,45 +137,47 @@ Amazon ECS - [highly scalable management service which allows developers to run 
 Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)![Docker Pulls](https://img.shields.io/docker/pulls/testcontainers/ryuk) ![GitHub Stars](https://img.shields.io/github/stars/r/testcontainers/ryuk) <br>
 Traefik - [Traefik is an HTTP reverse proxy that’s easy to integrate with container workloads.](https://github.com/traefik/traefik)![Docker Pulls](https://img.shields.io/docker/pulls/traefik/traefik) ![GitHub Stars](https://img.shields.io/github/stars/traefik/traefik) <br>
 Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes environments.](https://docs.docker.com/engine/context/working-with-contexts/) <br>
+luet - [Container-based Package manager](https://github.com/mudler/luet) ![GitHub Stars](https://img.shields.io/github/stars/mudler/luet) <br>
 
 ## Browser 
 
-kde-in-docker - [Run KDE inside a browser](https://github.com/ms-jpq/kde-in-docker)<br>
-Portus - [3D Docker containers viewer built with Electron, React and Three Fiber](https://github.com/trindadematheus/portus)![GitHub Stars](https://img.shields.io/github/stars/trindadematheus/portus) <br>
+- kde-in-docker - [Run KDE inside a browser](https://github.com/ms-jpq/kde-in-docker)<br>
+- Portus - [3D Docker containers viewer built with Electron, React and Three Fiber](https://github.com/trindadematheus/portus)![GitHub Stars](https://img.shields.io/github/stars/trindadematheus/portus) <br>
+- snek - [Snek simplifies the process of porting software to multiple platforms. Uses @docker 20.10.12+](https://t.co/GPblsl9hRc)<br>
 
 
 ## Cluster Management
 
-Nebula - [designed to manage massive clusters at scale.](http://nebula.readthedocs.io/en/latest/)<br>
+- Nebula - [designed to manage massive clusters at scale.](http://nebula.readthedocs.io/en/latest/)<br>
 
 ## Machine Learning
 
-Paddle Serving - [A flexible, high-performance carrier for machine learning models](https://github.com/PaddlePaddle/Serving) ![GitHub Stars](https://img.shields.io/github/stars/PaddlePaddle/Serving) <br>
+- Paddle Serving - [A flexible, high-performance carrier for machine learning models](https://github.com/PaddlePaddle/Serving) ![GitHub Stars](https://img.shields.io/github/stars/PaddlePaddle/Serving) <br>
 
 ## Android app
-Android-Docker - [A Docker image for building and testing Android apps.](https://github.com/randr0id/android-docker) ![GitHub Stars](https://img.shields.io/github/stars/randr0id/android-docker) <br>
+- Android-Docker - [A Docker image for building and testing Android apps.](https://github.com/randr0id/android-docker) ![GitHub Stars](https://img.shields.io/github/stars/randr0id/android-docker) <br>
 
 ## Development
 
-Konveyor Move2Kube - [Automatically create Dockerfiles, Kubernetes Yamls, Helm charts and other Infrastructure as Code Artifacts for your application.](https://move2kube.konveyor.io/)<br>
-Docksal - [tool for defining and managing web development environments.](https://github.com/docksal/docksal)![GitHub Stars](https://img.shields.io/github/stars/docksal/docksal) <br>
-Chartbrew - [Chartbrew is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts.](https://github.com/chartbrew/chartbrew)![GitHub Stars](https://img.shields.io/github/stars/chartbrew/chartbrew) <br>
-Conan Docker - [accelerating the development and Continuous Integration of C and C++ projects.](https://github.com/conan-io/conan-docker-tools)<br>
-PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa) ![stars](https://img.shields.io/github/stars/jakzal/phpqa)  <br>
+- Konveyor Move2Kube - [Automatically create Dockerfiles, Kubernetes Yamls, Helm charts and other Infrastructure as Code Artifacts for your application.](https://move2kube.konveyor.io/)<br>
+- Docksal - [tool for defining and managing web development environments.](https://github.com/docksal/docksal)![GitHub Stars](https://img.shields.io/github/stars/docksal/docksal) <br>
+- Chartbrew - [Chartbrew is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts.](https://github.com/chartbrew/chartbrew)![GitHub Stars](https://img.shields.io/github/stars/chartbrew/chartbrew) <br>
+- Conan Docker - [accelerating the development and Continuous Integration of C and C++ projects.](https://github.com/conan-io/conan-docker-tools)<br>
+- PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa) ![stars](https://img.shields.io/github/stars/jakzal/phpqa)  <br>
 
 
 ## Workflow
-Open Policy Registry - [A Docker-inspired workflow for OPA policies](https://www.openpolicyregistry.io/)<br>
+- Open Policy Registry - [A Docker-inspired workflow for OPA policies](https://www.openpolicyregistry.io/)<br>
 
 ## Networking
 
-Libnetwork - [Docker libnetwork plugin for Calico http://www.projectcalico.org](https://github.com/projectcalico/libnetwork-plugin)<br>
-Libnetwork - [networking for containers](https://github.com/moby/libnetwork)<br>
-Caddy Gen - [Automated Caddy reverse proxy for docker containers](https://github.com/wemake-services/caddy-gen)<br>
+- Libnetwork - [Docker libnetwork plugin for Calico http://www.projectcalico.org](https://github.com/projectcalico/libnetwork-plugin)<br>
+- Libnetwork - [networking for containers](https://github.com/moby/libnetwork)<br>
+- Caddy Gen - [Automated Caddy reverse proxy for docker containers](https://github.com/wemake-services/caddy-gen)<br>
 
 ## Swarm
 
-Orbiter - [Autoscaler for Docker Swarm](https://github.com/gianarb/orbiter)
+- Orbiter - [Autoscaler for Docker Swarm](https://github.com/gianarb/orbiter)
 
 ## Maintainer
 
