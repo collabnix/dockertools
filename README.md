@@ -134,7 +134,7 @@ Portainer - [Making Docker management easy. https://www.portainer.io](https://gi
 Drone - [continuous delivery system built on container technology](https://github.com/harness/drone) ![GitHub Stars](https://img.shields.io/github/stars/harness/drone) <br>
 Kubernetes - [most popular container orchestration engine](https://github.com/kubernetes/kubernetes) ![GitHub Stars](https://img.shields.io/github/stars/kubernetes/kubernetes) <br>
 Amazon ECS - [highly scalable management service which allows developers to run containerized applications on EC2 instances.](https://aws.amazon.com/ecs/) <br>
-Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)![Docker Pulls](https://img.shields.io/docker/pulls/testcontainers/ryuk) ![GitHub Stars](https://img.shields.io/github/stars/r/testcontainers/ryuk) <br>
+Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)![Docker Pulls](https://img.shields.io/docker/pulls/testcontainers/ryuk) <br>
 Traefik - [Traefik is an HTTP reverse proxy that’s easy to integrate with container workloads.](https://github.com/traefik/traefik)![Docker Pulls](https://img.shields.io/docker/pulls/traefik/traefik) ![GitHub Stars](https://img.shields.io/github/stars/traefik/traefik) <br>
 Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes environments.](https://docs.docker.com/engine/context/working-with-contexts/) <br>
 luet - [Container-based Package manager](https://github.com/mudler/luet) ![GitHub Stars](https://img.shields.io/github/stars/mudler/luet) <br>
