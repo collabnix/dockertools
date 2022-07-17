@@ -97,7 +97,7 @@ Container-diff - [container-diff is a tool for analyzing and comparing container
 
 ## Docker CLI
 
-Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) ![stars](https://img.shields.io/github/stars/buildx/working-with-buildx/)<br>
+Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) <br>
 Lazy Docker - [A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.](https://github.com/jesseduffield/lazydocker)<br>
 
 ## DockerHub
