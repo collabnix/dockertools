@@ -100,12 +100,16 @@ Container-diff - [container-diff is a tool for analyzing and comparing container
 
 ## Docker CLI
 
+
 Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) ![stars](https://img.shields.io/github/stars/buildx/working-with-buildx/) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
 <br>
 Regi - [regi is a CLI tool for managing your accessibility to multiple Docker registries.](https://github.com/iamharvey/regi) ![stars](https://img.shields.io/github/stars/iamharvey/regi)<br>
 Lazy Docker - [A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.](https://github.com/jesseduffield/lazydocker)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
 <br>
 Kitt - [Kitt is a container based portable shell environment.](https://github.com/senges/kitt) ![stars](https://img.shields.io/github/stars/senges/kitt)<br>
+Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) <br>
+Lazy Docker - [A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.](https://github.com/jesseduffield/lazydocker)<br>
+
 
 ## DockerHub
 
@@ -143,7 +147,7 @@ Portainer - [Making Docker management easy. https://www.portainer.io](https://gi
 Drone - [continuous delivery system built on container technology](https://github.com/harness/drone) ![GitHub Stars](https://img.shields.io/github/stars/harness/drone) <br>
 Kubernetes - [most popular container orchestration engine](https://github.com/kubernetes/kubernetes) ![GitHub Stars](https://img.shields.io/github/stars/kubernetes/kubernetes) <br>
 Amazon ECS - [highly scalable management service which allows developers to run containerized applications on EC2 instances.](https://aws.amazon.com/ecs/) <br>
-Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)![Docker Pulls](https://img.shields.io/docker/pulls/testcontainers/ryuk) ![GitHub Stars](https://img.shields.io/github/stars/r/testcontainers/ryuk) <br>
+Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)![Docker Pulls](https://img.shields.io/docker/pulls/testcontainers/ryuk) <br>
 Traefik - [Traefik is an HTTP reverse proxy that’s easy to integrate with container workloads.](https://github.com/traefik/traefik)![Docker Pulls](https://img.shields.io/docker/pulls/traefik/traefik) ![GitHub Stars](https://img.shields.io/github/stars/traefik/traefik) <br>
 Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes environments.](https://docs.docker.com/engine/context/working-with-contexts/) <br>
 luet - [Container-based Package manager](https://github.com/mudler/luet) ![GitHub Stars](https://img.shields.io/github/stars/mudler/luet) <br>
