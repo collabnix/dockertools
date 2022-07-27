@@ -42,18 +42,17 @@ docker trust - [Manage trust on Docker Images](https://docs.docker.com/engine/re
 
 ## Image Slim
 
-DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)  ![stars](https://img.shields.io/github/stars/docker-slim/docker-slim)<br>
-Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon) ![Github Stars](https://img.shields.io/github/stars/grycap/minicon) <br>
+- DockerSlim - [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)  ![stars](https://img.shields.io/github/stars/docker-slim/docker-slim)<br>
+- Minicon - [Minimization of the filesystem for containers](https://github.com/grycap/minicon) ![Github Stars](https://img.shields.io/github/stars/grycap/minicon) <br>
 
-Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower) ![Docker Pulls](https://img.shields.io/docker/pulls/containrrr/watchtower) ![GitHub Stars](https://img.shields.io/github/stars/containrrr/watchtower) <br>
-Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ![Docker Pulls](https://img.shields.io/docker/pulls/anchore/syft) ![stars](https://img.shields.io/github/stars/anchore/syft) <br>
-gitlab-ci-image-scanner (gcis) - [executes security scan over all Docker images used in all CI files ](https://github.com/jkosik/gitlab-ci-image-scanner) ![stars](https://img.shields.io/github/stars/jkosik/gitlab-ci-image-scanner) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
+- Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower) ![Docker Pulls](https://img.shields.io/docker/pulls/containrrr/watchtower) ![GitHub Stars](https://img.shields.io/github/stars/containrrr/watchtower) <br>
+- Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ![Docker Pulls](https://img.shields.io/docker/pulls/anchore/syft) ![stars](https://img.shields.io/github/stars/anchore/syft) <br>
+- gitlab-ci-image-scanner (gcis) - [executes security scan over all Docker images used in all CI files ](https://github.com/jkosik/gitlab-ci-image-scanner) ![stars](https://img.shields.io/github/stars/jkosik/gitlab-ci-image-scanner) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
 <br>
-
-Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower) ![GitHub Stars](https://img.shields.io/github/stars/containrrr/watchtower) <br>
-Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ![stars](https://img.shields.io/github/stars/anchore/syft)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
+- Watchtower - [A process for automating Docker container base image updates](https://github.com/containrrr/watchtower) ![GitHub Stars](https://img.shields.io/github/stars/containrrr/watchtower) <br>
+- Syft - [CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft) ![stars](https://img.shields.io/github/stars/anchore/syft)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
  <br>
-dockcross - [Cross compiling toolchains in Docker images.](https://linktr.ee/dockcross)
+- dockcross - [Cross compiling toolchains in Docker images.](https://linktr.ee/dockcross)
 
 
 
@@ -80,15 +79,15 @@ Bing Daily Images - [A docker container that downloads bing daily images for you
 
 ## Dockerfile Tools & Metrics
 
-Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint) ![stars](https://img.shields.io/github/stars/hadolint/hadolint)<br>
-ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)  ![stars](https://img.shields.io/github/stars/bcicen/ctop)<br>
-Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
+- Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint) ![stars](https://img.shields.io/github/stars/hadolint/hadolint)<br>
+- ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)  ![stars](https://img.shields.io/github/stars/bcicen/ctop)<br>
+- Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
  <br>
 
 
 ## Debugger
 
-Gebug - [A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly](https://github.com/moshebe/gebug) ![stars](https://img.shields.io/github/stars/moshebe/gebug) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
+- Gebug - [A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly](https://github.com/moshebe/gebug) ![stars](https://img.shields.io/github/stars/moshebe/gebug) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
  <br>
 
 
