@@ -106,8 +106,10 @@ Container-diff - [container-diff is a tool for analyzing and comparing container
 
 Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) ![stars](https://img.shields.io/github/stars/buildx/working-with-buildx/) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
 <br>
+Regi - [regi is a CLI tool for managing your accessibility to multiple Docker registries.](https://github.com/iamharvey/regi) ![stars](https://img.shields.io/github/stars/iamharvey/regi)<br>
 Lazy Docker - [A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.](https://github.com/jesseduffield/lazydocker)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
 <br>
+Kitt - [Kitt is a container based portable shell environment.](https://github.com/senges/kitt) ![stars](https://img.shields.io/github/stars/senges/kitt)<br>
 
 ## DockerHub
 
