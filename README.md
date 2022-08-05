@@ -67,6 +67,7 @@ PHPQA - [Docker image that provides static analysis tools for PHP](https://githu
 <br>
 Docker Registry Pruner - [Tool to apply retention logic to docker images in a Docker Registry](https://github.com/tumblr/docker-registry-pruner)  ![stars](https://img.shields.io/github/stars/tumblr/docker-registry-pruner)<br>
 tini - [A tiny but valid init for containers](https://github.com/krallin/tini) ![stars](https://img.shields.io/github/stars/krallin/tini)<br>
+Modus - [Modus is a language for building Docker/OCI container images.](https://github.com/modus-continens/modus) ![stars](https://img.shields.io/github/stars/modus-continens/modus)<br>
 
 ## Image Utilties
 
