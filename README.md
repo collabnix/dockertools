@@ -90,6 +90,7 @@ Bing Daily Images - [A docker container that downloads bing daily images for you
 
 ## Image Security
 
+SecretScanner - [🔓 🔓 Find secrets and passwords in container images and file systems 🔓 🔓](https://github.com/deepfence/SecretScanner)  ![stars](https://img.shields.io/github/stars/deepfence/SecretScanner)<br>
 TerraScan -[Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure](https://github.com/accurics/terrascan)  ![stars](https://img.shields.io/github/stars/accurics/terrascan)<br>
 Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair) ![stars](https://img.shields.io/github/stars/quay/clair)<br>
 Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)  ![stars](https://img.shields.io/github/stars/aquasecurity/trivy)<br>
