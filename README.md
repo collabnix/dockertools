@@ -83,8 +83,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 ## Debugger
 
-- Gebug - [A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly](https://github.com/moshebe/gebug) ![stars](https://img.shields.io/github/stars/moshebe/gebug) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
- <br>
+- Gebug - [A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly](https://github.com/moshebe/gebug) ![stars](https://img.shields.io/github/stars/moshebe/gebug) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
+- Sidekick - [Sidekick is a live application debugger that lets you troubleshoot your applications while they keep on running.](https://github.com/runsidekick/sidekick) ![stars](https://img.shields.io/github/stars/runsidekick/sidekick) <br> 
 
 
 ## Image Security
