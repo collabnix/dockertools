@@ -89,12 +89,21 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 ## Image Security
 
+
 - TerraScan -[Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure](https://github.com/accurics/terrascan)  ![stars](https://img.shields.io/github/stars/accurics/terrascan)<br>
 - Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair) ![stars](https://img.shields.io/github/stars/quay/clair)<br>
 - Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)  ![stars](https://img.shields.io/github/stars/aquasecurity/trivy)<br>
 - DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
 - DockerScan - [A Docker analysis & hacking tools](https://github.com/cr0hn/dockerscan)  ![stars](https://img.shields.io/github/stars/cr0hn/dockerscan)<br>
 - Container-diff - [container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria.](https://github.com/GoogleContainerTools/container-diff) ![stars](https://img.shields.io/github/stars/GoogleContainerTools/container-diff) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
+
+SecretScanner - [🔓 🔓 Find secrets and passwords in container images and file systems 🔓 🔓](https://github.com/deepfence/SecretScanner)  ![stars](https://img.shields.io/github/stars/deepfence/SecretScanner)<br>
+TerraScan -[Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure](https://github.com/accurics/terrascan)  ![stars](https://img.shields.io/github/stars/accurics/terrascan)<br>
+Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair) ![stars](https://img.shields.io/github/stars/quay/clair)<br>
+Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)  ![stars](https://img.shields.io/github/stars/aquasecurity/trivy)<br>
+DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
+DockerScan - [A Docker analysis & hacking tools](https://github.com/cr0hn/dockerscan)  ![stars](https://img.shields.io/github/stars/cr0hn/dockerscan)<br>
+Container-diff - [container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria.](https://github.com/GoogleContainerTools/container-diff) ![stars](https://img.shields.io/github/stars/GoogleContainerTools/container-diff) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
 <br>
 
 ## Docker CLI
