@@ -28,15 +28,14 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 
 
-docker build - [Easily create and share portable Docker container images using open standards](https://docs.docker.com/engine/reference/commandline/build/)<br>
-docker buildx - [Extended build capabilities with Buildkit](https://docs.docker.com/engine/reference/commandline/buildx/)<br>
-docker compose - [Build and Manage multiple services in Docker containers](https://docs.docker.com/engine/reference/commandline/compose/)<br>
-docker scan - [Quickly detect and learn how to remediate CVEs in your Docker image](https://docs.docker.com/engine/scan/)<br>
-docker context - [Manages multiple Swarm clusters, Kubernetes clusters and Docker nodes](https://docs.docker.com/engine/context/working-with-contexts/)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
-<br>
-docker sbom - [Generate the Software Bill of Materials (SBOM) of a container image](https://docs.docker.com/engine/sbom/)<br>
-docker extensions - [Use 3rd party tools within Docker Desktop to extend its functionality](https://docs.docker.com/desktop/extensions/)<br>
-docker trust - [Manage trust on Docker Images](https://docs.docker.com/engine/reference/commandline/trust/)<br>
+- docker build - [Easily create and share portable Docker container images using open standards](https://docs.docker.com/engine/reference/commandline/build/)<br>
+- docker buildx - [Extended build capabilities with Buildkit](https://docs.docker.com/engine/reference/commandline/buildx/)<br>
+- docker compose - [Build and Manage multiple services in Docker containers](https://docs.docker.com/engine/reference/commandline/compose/)<br>
+- docker scan - [Quickly detect and learn how to remediate CVEs in your Docker image](https://docs.docker.com/engine/scan/)<br>
+- docker context - [Manages multiple Swarm clusters, Kubernetes clusters and Docker nodes](https://docs.docker.com/engine/context/working-with-contexts/)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
+- docker sbom - [Generate the Software Bill of Materials (SBOM) of a container image](https://docs.docker.com/engine/sbom/)<br>
+- docker extensions - [Use 3rd party tools within Docker Desktop to extend its functionality](https://docs.docker.com/desktop/extensions/)<br>
+- docker trust - [Manage trust on Docker Images](https://docs.docker.com/engine/reference/commandline/trust/)<br>
 
 ## Open Source Developer Tools
 
@@ -55,22 +54,22 @@ docker trust - [Manage trust on Docker Images](https://docs.docker.com/engine/re
 
 ## Image Build Toolkit
 
-BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit) ![stars](https://img.shields.io/github/stars/moby/buildkit)  <br>
-Dive - [Tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)  ![stars](https://img.shields.io/github/stars/wagoodman/dive) <br>
-Docker-Squash - [Squashing helps with organizing images in logical layers.](https://github.com/goldmann/docker-squash) ![stars](https://img.shields.io/github/stars/goldmann/docker-squash) <br>
-Docker-Diun - [ Docker image update notifier](https://github.com/crazy-max/diun) ![stars](https://img.shields.io/github/stars/crazy-max/diun) <br>
-Trivy - [Trivy is a container image scanner which uncovers known vulnerabilities.](https://www.cloudsavvyit.com/12027/how-to-use-trivy-to-find-vulnerabilities-in-docker-containers) ![stars](https://img.shields.io/github/stars/goldmann/docker-squash) <br>
-vbaksa/promoter - [Docker Image promotion tool](https://github.com/vbaksa/promoter) ![stars](https://img.shields.io/github/stars/vbaksa/promoter)<br>
-Argo Watcher - [A small tool that will wait for the specific docker image to be rolled out](https://github.com/shini4i/argo-watcher) ![stars](https://img.shields.io/github/stars/shini4i/argo-watcher)<br>
-Terrier - [Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes](https://github.com/heroku/terrier)  ![stars](https://img.shields.io/github/stars/heroku/terrier)<br>
-PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa)  ![stars](https://img.shields.io/github/stars/jakzal/phpqa) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
-<br>
-Docker Registry Pruner - [Tool to apply retention logic to docker images in a Docker Registry](https://github.com/tumblr/docker-registry-pruner)  ![stars](https://img.shields.io/github/stars/tumblr/docker-registry-pruner)<br>
-tini - [A tiny but valid init for containers](https://github.com/krallin/tini) ![stars](https://img.shields.io/github/stars/krallin/tini)<br>
+- BuildKit - [Toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner](https://github.com/moby/buildkit) ![stars](https://img.shields.io/github/stars/moby/buildkit)  <br>
+- Dive - [Tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)  ![stars](https://img.shields.io/github/stars/wagoodman/dive) <br>
+- Docker-Squash - [Squashing helps with organizing images in logical layers.](https://github.com/goldmann/docker-squash) ![stars](https://img.shields.io/github/stars/goldmann/docker-squash) <br>
+- Docker-Diun - [ Docker image update notifier](https://github.com/crazy-max/diun) ![stars](https://img.shields.io/github/stars/crazy-max/diun) <br>
+- Trivy - [Trivy is a container image scanner which uncovers known vulnerabilities.](https://www.cloudsavvyit.com/12027/how-to-use-trivy-to-find-vulnerabilities-in-docker-containers) ![stars](https://img.shields.io/github/stars/goldmann/docker-squash) <br>
+- vbaksa/promoter - [Docker Image promotion tool](https://github.com/vbaksa/promoter) ![stars](https://img.shields.io/github/stars/vbaksa/promoter)<br>
+- Argo Watcher - [A small tool that will wait for the specific docker image to be rolled out](https://github.com/shini4i/argo-watcher) ![stars](https://img.shields.io/github/stars/shini4i/argo-watcher)<br>
+- Terrier - [Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes](https://github.com/heroku/terrier)  ![stars](https://img.shields.io/github/stars/heroku/terrier)<br>
+- PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa)  ![stars](https://img.shields.io/github/stars/jakzal/phpqa) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
+- Docker Registry Pruner - [Tool to apply retention logic to docker images in a Docker Registry](https://github.com/tumblr/docker-registry-pruner)  ![stars](https://img.shields.io/github/stars/tumblr/docker-registry-pruner)<br>
+- tini - [A tiny but valid init for containers](https://github.com/krallin/tini) ![stars](https://img.shields.io/github/stars/krallin/tini)<br>
+- Modus - [Modus is a language for building Docker/OCI container images.](https://github.com/modus-continens/modus) ![stars](https://img.shields.io/github/stars/modus-continens/modus)<br>
 
 ## Image Utilties
 
-Bing Daily Images - [A docker container that downloads bing daily images for you](https://github.com/ms-jpq/bing-daily-images) ![stars](https://img.shields.io/github/stars/ms-jpq/bing-daily-images)<br>
+- Bing Daily Images - [A docker container that downloads bing daily images for you](https://github.com/ms-jpq/bing-daily-images) ![stars](https://img.shields.io/github/stars/ms-jpq/bing-daily-images)<br>
 
 
 
@@ -78,17 +77,25 @@ Bing Daily Images - [A docker container that downloads bing daily images for you
 
 - Haskell Dockerfile Linter - [Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint) ![stars](https://img.shields.io/github/stars/hadolint/hadolint)<br>
 - ctop - [Top-like interface for container metrics](https://github.com/bcicen/ctop)  ![stars](https://img.shields.io/github/stars/bcicen/ctop)<br>
-- Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
- <br>
+- Dfimage - [Reverse-engineers a Dockerfile from a Docker image.](https://github.com/LanikSJ/dfimage) ![stars](https://img.shields.io/github/stars/LanikSJ/dfimage)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
+- Buildg - [buildg is a tool to interactively debug Dockerfile based on BuildKit.](https://github.com/ktock/buildg)  ![stars](https://img.shields.io/github/stars/ktock/buildg)<br>
 
 
 ## Debugger
 
-- Gebug - [A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly](https://github.com/moshebe/gebug) ![stars](https://img.shields.io/github/stars/moshebe/gebug) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
- <br>
+- Gebug - [A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly](https://github.com/moshebe/gebug) ![stars](https://img.shields.io/github/stars/moshebe/gebug) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
+- Sidekick - [Sidekick is a live application debugger that lets you troubleshoot your applications while they keep on running.](https://github.com/runsidekick/sidekick) ![stars](https://img.shields.io/github/stars/runsidekick/sidekick) <br> 
 
 
 ## Image Security
+
+
+- TerraScan -[Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure](https://github.com/accurics/terrascan)  ![stars](https://img.shields.io/github/stars/accurics/terrascan)<br>
+- Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair) ![stars](https://img.shields.io/github/stars/quay/clair)<br>
+- Trivy - [Vulnerability Scanner for Containers and other Artifacts, Suitable for CI - Aqua Security](https://github.com/aquasecurity/trivy)  ![stars](https://img.shields.io/github/stars/aquasecurity/trivy)<br>
+- DeepSource - [Static Analysis for DockerFiles](https://deepsource.io/)<br>
+- DockerScan - [A Docker analysis & hacking tools](https://github.com/cr0hn/dockerscan)  ![stars](https://img.shields.io/github/stars/cr0hn/dockerscan)<br>
+- Container-diff - [container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria.](https://github.com/GoogleContainerTools/container-diff) ![stars](https://img.shields.io/github/stars/GoogleContainerTools/container-diff) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
 
 SecretScanner - [🔓 🔓 Find secrets and passwords in container images and file systems 🔓 🔓](https://github.com/deepfence/SecretScanner)  ![stars](https://img.shields.io/github/stars/deepfence/SecretScanner)<br>
 TerraScan -[Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure](https://github.com/accurics/terrascan)  ![stars](https://img.shields.io/github/stars/accurics/terrascan)<br>
@@ -102,56 +109,51 @@ Container-diff - [container-diff is a tool for analyzing and comparing container
 ## Docker CLI
 
 
-Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) ![stars](https://img.shields.io/github/stars/buildx/working-with-buildx/) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
-<br>
-Regi - [regi is a CLI tool for managing your accessibility to multiple Docker registries.](https://github.com/iamharvey/regi) ![stars](https://img.shields.io/github/stars/iamharvey/regi)<br>
-Lazy Docker - [A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.](https://github.com/jesseduffield/lazydocker)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
-<br>
-Kitt - [Kitt is a container based portable shell environment.](https://github.com/senges/kitt) ![stars](https://img.shields.io/github/stars/senges/kitt)<br>
-Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) <br>
-Lazy Docker - [A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.](https://github.com/jesseduffield/lazydocker)<br>
+- Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) ![stars](https://img.shields.io/github/stars/buildx/working-with-buildx/) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
+- Regi - [regi is a CLI tool for managing your accessibility to multiple Docker registries.](https://github.com/iamharvey/regi) ![stars](https://img.shields.io/github/stars/iamharvey/regi)<br>
+- Lazy Docker - [A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.](https://github.com/jesseduffield/lazydocker)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
+- Kitt - [Kitt is a container based portable shell environment.](https://github.com/senges/kitt) ![stars](https://img.shields.io/github/stars/senges/kitt)<br>
+- Docker Buildx - [a CLI plugin that extends the docker command with the full support of the features provided by Moby BuildKit builder toolkit.](https://docs.docker.com/buildx/working-with-buildx/) <br>
+
 
 
 ## DockerHub
 
-DockerHub Scraper - [Scraping DockerHub](https://github.com/itamarhaber/dockerhub-scraper)<br>
+- DockerHub Scraper - [Scraping DockerHub](https://github.com/itamarhaber/dockerhub-scraper)<br>
 
 ## Deployment Tool
 
-Fleetform - [A tool to apply docker container infrastructure as code in a very simple human readable way](https://github.com/majo418/fleetform) ![stars](https://img.shields.io/github/stars/majo418/fleetform)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
- <br>
-Swarmsible -[Simple Ansible based Tooling for setting up and managing a production grade Docker Swarm on Ubuntu 18.04/20.04.](https://github.com/neuroforgede/swarmsible) ![stars](https://img.shields.io/github/stars/neuroforgede/swarmsible)<br>
+- Fleetform - [A tool to apply docker container infrastructure as code in a very simple human readable way](https://github.com/majo418/fleetform) ![stars](https://img.shields.io/github/stars/majo418/fleetform)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
+- Swarmsible -[Simple Ansible based Tooling for setting up and managing a production grade Docker Swarm on Ubuntu 18.04/20.04.](https://github.com/neuroforgede/swarmsible) ![stars](https://img.shields.io/github/stars/neuroforgede/swarmsible)<br>
 
 
 ## Docker Volume
 
-Flocker - [Data Volume Manager for your Dockerized applications.](https://github.com/ClusterHQ/flocker)<br>
+- Flocker - [Data Volume Manager for your Dockerized applications.](https://github.com/ClusterHQ/flocker)<br>
 offen/docker-volume-backup - [Backup Docker volumes locally or to any S3 or WebDAV compatible storage](https://github.com/offen/docker-volume-backup)<br>
 
 ## Cloud-Job
 
- Launcha - [Launcha is a docker-based cloud job launcher.](https://github.com/vwxyzjn/launcha)<br>
+- Launcha - [Launcha is a docker-based cloud job launcher.](https://github.com/vwxyzjn/launcha)<br>
  
 ## Runtime Security
 
-Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)<br>
-CetusGuard - [Tool that allows to protect the Docker daemon socket by filtering the calls to its API endpoints](https://github.com/hectorm/cetusguard)<br>
-Tetragon - [eBPF-based Security Observability and Runtime Enforcement](https://github.com/cilium/tetragon) ![Docker Pulls](https://img.shields.io/docker/pulls/cilium/tetragon) ![stars](https://img.shields.io/github/stars/cilium/tetragon)<br>
-
-Falco - [Runtime security and threat detection project](https://falco.org/)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)
- <br>
+- Tracee - [Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)<br>
+- CetusGuard - [Tool that allows to protect the Docker daemon socket by filtering the calls to its API endpoints](https://github.com/hectorm/cetusguard)<br>
+- Tetragon - [eBPF-based Security Observability and Runtime Enforcement](https://github.com/cilium/tetragon) ![Docker Pulls](https://img.shields.io/docker/pulls/cilium/tetragon) ![stars](https://img.shields.io/github/stars/cilium/tetragon)<br>
+- Falco - [Runtime security and threat detection project](https://falco.org/)![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
 
 ## Container Orchestration
 
-Miniboss - [Manages container locally](https://github.com/afroisalreadyinu/miniboss) ![GitHub Stars](https://img.shields.io/github/stars/afroisalreadyinu/miniboss) <br>
-Portainer - [Making Docker management easy. https://www.portainer.io](https://github.com/portainer/portainer)![Docker Pulls](https://img.shields.io/docker/pulls/portainer/portainer) ![GitHub Stars](https://img.shields.io/github/stars/portainer/portainer) <br>
-Drone - [continuous delivery system built on container technology](https://github.com/harness/drone) ![GitHub Stars](https://img.shields.io/github/stars/harness/drone) <br>
-Kubernetes - [most popular container orchestration engine](https://github.com/kubernetes/kubernetes) ![GitHub Stars](https://img.shields.io/github/stars/kubernetes/kubernetes) <br>
-Amazon ECS - [highly scalable management service which allows developers to run containerized applications on EC2 instances.](https://aws.amazon.com/ecs/) <br>
-Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)![Docker Pulls](https://img.shields.io/docker/pulls/testcontainers/ryuk) <br>
-Traefik - [Traefik is an HTTP reverse proxy that’s easy to integrate with container workloads.](https://github.com/traefik/traefik)![Docker Pulls](https://img.shields.io/docker/pulls/traefik/traefik) ![GitHub Stars](https://img.shields.io/github/stars/traefik/traefik) <br>
-Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes environments.](https://docs.docker.com/engine/context/working-with-contexts/) <br>
-luet - [Container-based Package manager](https://github.com/mudler/luet) ![GitHub Stars](https://img.shields.io/github/stars/mudler/luet) <br>
+- Miniboss - [Manages container locally](https://github.com/afroisalreadyinu/miniboss) ![GitHub Stars](https://img.shields.io/github/stars/afroisalreadyinu/miniboss) <br>
+- Portainer - [Making Docker management easy. https://www.portainer.io](https://github.com/portainer/portainer)![Docker Pulls](https://img.shields.io/docker/pulls/portainer/portainer) ![GitHub Stars](https://img.shields.io/github/stars/portainer/portainer) <br>
+- Drone - [continuous delivery system built on container technology](https://github.com/harness/drone) ![GitHub Stars](https://img.shields.io/github/stars/harness/drone) <br>
+- Kubernetes - [most popular container orchestration engine](https://github.com/kubernetes/kubernetes) ![GitHub Stars](https://img.shields.io/github/stars/kubernetes/kubernetes) <br>
+- Amazon ECS - [highly scalable management service which allows developers to run containerized applications on EC2 instances.](https://aws.amazon.com/ecs/) <br>
+- Ryuk - [Remove containers/networks/volumes/images by given filter after specified delay.](https://hub.docker.com/r/testcontainers/ryuk)![Docker Pulls](https://img.shields.io/docker/pulls/testcontainers/ryuk) <br>
+- Traefik - [Traefik is an HTTP reverse proxy that’s easy to integrate with container workloads.](https://github.com/traefik/traefik)![Docker Pulls](https://img.shields.io/docker/pulls/traefik/traefik) ![GitHub Stars](https://img.shields.io/github/stars/traefik/traefik) <br>
+- Docker Context - [Makes it easy to switch between multiple Docker and Kubernetes environments.](https://docs.docker.com/engine/context/working-with-contexts/) <br>
+- luet - [Container-based Package manager](https://github.com/mudler/luet) ![GitHub Stars](https://img.shields.io/github/stars/mudler/luet) <br>
 
 ## Browser 
 
@@ -178,7 +180,7 @@ luet - [Container-based Package manager](https://github.com/mudler/luet) ![GitHu
 - Chartbrew - [Chartbrew is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts.](https://github.com/chartbrew/chartbrew)![GitHub Stars](https://img.shields.io/github/stars/chartbrew/chartbrew) <br>
 - Conan Docker - [accelerating the development and Continuous Integration of C and C++ projects.](https://github.com/conan-io/conan-docker-tools)<br>
 - PHPQA - [Docker image that provides static analysis tools for PHP](https://github.com/jakzal/phpqa) ![stars](https://img.shields.io/github/stars/jakzal/phpqa)  <br>
-Jump - [Jump is yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure.](https://github.com/daledavies/jump) ![stars](https://img.shields.io/github/stars/daledavies/jump)<br>
+- Jump - [Jump is yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure.](https://github.com/daledavies/jump) ![stars](https://img.shields.io/github/stars/daledavies/jump)<br>
 
 
 
