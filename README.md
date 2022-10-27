@@ -36,6 +36,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 - docker sbom - [Generate the Software Bill of Materials (SBOM) of a container image](https://docs.docker.com/engine/sbom/)<br>
 - docker extensions - [Use 3rd party tools within Docker Desktop to extend its functionality](https://docs.docker.com/desktop/extensions/)<br>
 - docker trust - [Manage trust on Docker Images](https://docs.docker.com/engine/reference/commandline/trust/)<br>
+- docker dev - [Run Dev Envs via command line](https://docs.docker.com/desktop/release-notes/#new)<br>
 
 ## Open Source Developer Tools
 
