@@ -175,6 +175,7 @@ offen/docker-volume-backup - [Backup Docker volumes locally or to any S3 or WebD
 
 ## Development Tool
 
+- envd - [Development environment for AI/ML based on buildkit](https://github.com/tensorchord/envd) ![GitHub Stars](https://img.shields.io/github/stars/tensorchord/envd) ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564)<br>
 - Konveyor Move2Kube - [Automatically create Dockerfiles, Kubernetes Yamls, Helm charts and other Infrastructure as Code Artifacts for your application.](https://move2kube.konveyor.io/)<br>
 - Docksal - [tool for defining and managing web development environments.](https://github.com/docksal/docksal)![GitHub Stars](https://img.shields.io/github/stars/docksal/docksal) <br>
 - Chartbrew - [Chartbrew is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts.](https://github.com/chartbrew/chartbrew)![GitHub Stars](https://img.shields.io/github/stars/chartbrew/chartbrew) <br>
