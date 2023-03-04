@@ -37,6 +37,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 - docker extensions - [Use 3rd party tools within Docker Desktop to extend its functionality](https://docs.docker.com/desktop/extensions/)<br>
 - docker trust - [Manage trust on Docker Images](https://docs.docker.com/engine/reference/commandline/trust/)<br>
 - docker dev - [Run Dev Envs via command line](https://docs.docker.com/desktop/release-notes/#new)<br>
+- docker scout - [ A Software Supply Chain Security for Developers](https://docs.docker.com/scout/) 
 
 ## Open Source Developer Tools
 
