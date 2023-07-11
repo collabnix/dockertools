@@ -48,6 +48,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 
 ## Image Slim
+
 |	Serial No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------ |
 |	1	| DockerSlim| [Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)     | ![Github Stars](https://img.shields.io/github/stars/docker-slim/docker-slim)   |
@@ -70,6 +71,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |18| Openresty|[Docker tooling for OpenResty](https://hub.docker.com/r/openresty/openresty) |![Github Stars](https://img.shields.io/github/stars/openresty/docker-openresty) |
 |19| Oxker|[A simple gui to view & control docker containers.](https://github.com/mrjackwills/oxker) |![Github Stars](https://img.shields.io/github/stars/mrjackwills/oxker) |
 |20| Dockerdot|[dockerdot shows dockerfile dependenciy graph. This is useful to understand how build dockerfile. This uses Go WebAssembly + BuildKit package..](https://github.com/po3rin/dockerdot) |![Github Stars](https://img.shields.io/github/stars/po3rin/dockerdot) |
+|21| Corrator|[A tool to verify the versions of apps used inside docker containers.](https://github.com/natecox/corrator) |![Github Stars](https://img.shields.io/github/stars/natecox/corrator) |
 
 
 ## Image Build Toolkit
