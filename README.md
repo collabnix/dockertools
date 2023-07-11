@@ -23,8 +23,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 |	Serial No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------ |
-| 1 | docker build  | [Easily create and share portable Docker container images using open standards](https://docs.docker.com/engine/reference/commandline/build/) | ![Github Stars](https://img.shields.io/github/stars/docker/docs) |
-| 2 | docker buildx | [Extended build capabilities with Buildkit](https://docs.docker.com/engine/reference/commandline/buildx/) | ![Github Stars](https://img.shields.io/github/stars/docker/docs) |
+|	1	| docker build  | [Easily create and share portable Docker container images using open standards](https://docs.docker.com/engine/reference/commandline/build/) | ![Github Stars](https://img.shields.io/github/stars/docker/docs)     |
+|	2	|  docker buildx | [Extended build capabilities with Buildkit](https://docs.docker.com/engine/reference/commandline/buildx/) | ![Github Stars](https://img.shields.io/github/stars/docker/docs) |
 | 3 | docker compose | [Build and Manage multiple services in Docker containers](https://docs.docker.com/engine/reference/commandline/compose/)| ![Github Stars](https://img.shields.io/github/stars/docker/docs)|
 | 4|docker scan | [Quickly detect and learn how to remediate CVEs in your Docker image](https://docs.docker.com/engine/scan/) | ![Github Stars](https://img.shields.io/github/stars/docker/docs)|
 | 5| docker context ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564) |  [Manages multiple Swarm clusters, Kubernetes clusters and Docker nodes](https://docs.docker.com/engine/context/working-with-contexts/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
