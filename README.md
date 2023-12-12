@@ -10,7 +10,7 @@ Developers love Docker. Docker is a suite of software development tools for crea
 
 Follow [the Collabnix Twitter account](https://twitter.com/collabnix) to keep track of the latest developer tools.
 
-Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 8500+ DevOps enthusiasts.<br>
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 9000+ DevOps enthusiasts.<br>
 
 # Types of Docker Developer Tools
 
