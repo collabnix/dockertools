@@ -19,20 +19,20 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 ## Docker Integrated Developer Tools
 
-<img width="1072" alt="image" src="https://user-images.githubusercontent.com/34368930/169660363-17e48331-660b-4f87-acd6-eaea195f25fe.png">
 
 |	Serial No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------ |
 |	1	| docker build  | [Easily create and share portable Docker container images using open standards](https://docs.docker.com/engine/reference/commandline/build/) | ![Github Stars](https://img.shields.io/github/stars/docker/docs)     |
 |	2	|  docker buildx | [Extended build capabilities with Buildkit](https://docs.docker.com/engine/reference/commandline/buildx/) | ![Github Stars](https://img.shields.io/github/stars/docker/docs) |
 | 3 | docker compose | [Build and Manage multiple services in Docker containers](https://docs.docker.com/engine/reference/commandline/compose/)| ![Github Stars](https://img.shields.io/github/stars/docker/docs)|
-| 4| docker context ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564) |  [Manages multiple Swarm clusters, Kubernetes clusters and Docker nodes](https://docs.docker.com/engine/context/working-with-contexts/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
+| 4| docker context |  [Manages multiple Swarm clusters, Kubernetes clusters and Docker nodes](https://docs.docker.com/engine/context/working-with-contexts/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
 | 5| docker sbom | [Generate the Software Bill of Materials (SBOM) of a container image](https://docs.docker.com/engine/sbom/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
 | 6| docker extensions | [Use 3rd party tools within Docker Desktop to extend its functionality](https://docs.docker.com/desktop/extensions/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
 | 7 | docker trust | [Manage trust on Docker Images](https://docs.docker.com/engine/reference/commandline/trust/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
 | 8| docker dev | [Run Dev Envs via command line](https://docs.docker.com/desktop/release-notes/#new) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
 | 9 | docker scout |[A Software Supply Chain Security for Developers](https://docs.docker.com/scout/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
-| 10| docker init ![badge](https://camo.githubusercontent.com/3df8afcf8230a643042ceb57dc0c9e55a2fe2a126be6a7d57e38996e4d5aaa42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e65772d726564) |  [Initialize a project with the files necessary to run the project in a container.](https://docs.docker.com/engine/reference/commandline/init/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
+| 10| docker init  |  [Initialize a project with the files necessary to run the project in a container.](https://docs.docker.com/engine/reference/commandline/init/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
+| 11| docker debug | [debug your images while they contain the bare minimum to run your application](https://docs.docker.com/reference/cli/docker/debug/) |![Github Stars](https://img.shields.io/github/stars/docker/docs) |
 
 
 ## Open Source Developer Tools
